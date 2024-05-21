@@ -1,0 +1,24 @@
+{
+  "template": "https://github.com/brightway-lca/cookiecutter-brightwaylib",
+  "commit": "eed7d2c3a958a448a9e99c0e19481f56f5313977",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Nico Mumm",
+      "email": "nico.mumm@uni-a.de",
+      "github_username": "brightway-lca",
+      "project_name": "cruftwine",
+      "package_name": "cruftwine",
+      "project_short_description": "learning packaging, chill",
+      "version": "0.0.1",
+      "use_pytest": "y",
+      "open_source_license": "MIT",
+      "copyright_year": "2024",
+      "_copy_without_render": [
+        ".github/*"
+      ],
+      "_template": "https://github.com/brightway-lca/cookiecutter-brightwaylib"
+    }
+  },
+  "directory": null
+}
