@@ -1,0 +1,19 @@
+cruftwine.printing
+==================
+
+.. py:module:: cruftwine.printing
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   cruftwine.printing.hello_world
+
+
+Module Contents
+---------------
+
+.. py:function:: hello_world()
+

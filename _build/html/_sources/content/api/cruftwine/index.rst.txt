@@ -1,0 +1,20 @@
+cruftwine
+=========
+
+.. py:module:: cruftwine
+
+.. autoapi-nested-parse::
+
+   cruftwine.
+
+
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 1
+
+   /content/api/cruftwine/printing/index
+
+

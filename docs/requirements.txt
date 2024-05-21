@@ -1,0 +1,18 @@
+# core functionality
+ipython
+
+# sphinx
+sphinx
+
+# theme
+sphinx_rtd_theme
+
+# extensions
+myst-parser
+sphinx-design
+sphinx-copybutton
+sphinx-autoapi
+sphinx-notfound-page
+
+# build process
+sphinx-autobuild
